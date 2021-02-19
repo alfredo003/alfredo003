@@ -43,5 +43,5 @@ Here are some ideas to get you started:
           </p>
 
 ## -----------------------------------------------------------------------
-<p><igm src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
+<p><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
 
