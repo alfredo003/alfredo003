@@ -30,6 +30,8 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
           </p>
+                                                                                                         
+                                                                                                         
 
 
 
@@ -40,4 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
           </p>
 
+## -----------------------------------------------------------------------
+<p><igm src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
 
